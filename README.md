@@ -4,7 +4,7 @@ A full-stack web app for reporting lost items, posting found items, and helping 
 
 > **A personal project.** I built this on my own, to learn and to practise full-stack development, backend design, and automated QA end to end. It is not a commercial product and isn't affiliated with any organisation.
 
-🌐 **Live site:** [lostandfoundnepal.pages.dev](https://lostandfoundnepal.pages.dev/)
+🌐 **Live site:** [lostandfoundnepal.com](https://lostandfoundnepal.com)
 
 ![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-4.1-6DB33F?logo=springboot&logoColor=white)
@@ -158,7 +158,7 @@ Make sure the target app URL used by the tests points at the environment you wan
 
 | Part | Where it runs |
 |---|---|
-| Frontend | Cloudflare Pages: [lostandfoundnepal.pages.dev](https://lostandfoundnepal.pages.dev/) |
+| Frontend | Cloudflare Pages: [lostandfoundnepal.com](https://lostandfoundnepal.com) |
 | Backend | Docker container on Render |
 | Database | CockroachDB |
 | Images | Cloudinary |
